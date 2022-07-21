@@ -2,6 +2,8 @@
 
 > Better completion for `pnpm`
 
+This plugin is a fork of [zsh-better-npm-completion](https://github.com/lukechilds/zsh-better-npm-completion). It works the same way, as you can see with `npm` demo:
+
 <img src="demo.gif" width="690">
 
 * Makes `pnpm install` recommendations from pnpm cache
